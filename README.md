@@ -1,2 +1,2 @@
 # Guess-my-number
-adfafasda
+From course
